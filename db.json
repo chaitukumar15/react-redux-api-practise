@@ -1,0 +1,57 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "FirstName": "chaitanya",
+      "SecondName": "kumar",
+      "Emailaddress": "chaitanyakumara@gmail.com",
+      "password": "chaitu123",
+      "id": 2
+    },
+    {
+      "FirstName": "pavan",
+      "SecondName": "kumar",
+      "Emailaddress": "pavan@gmail.com",
+      "password": "pavan123",
+      "id": 3
+    },
+    {
+      "FirstName": "chaitt",
+      "SecondName": "kumar",
+      "Emailaddress": "chaitu@gmail.com",
+      "password": "1234",
+      "id": 4
+    },
+    {
+      "FirstName": "pavan",
+      "SecondName": "pavan",
+      "Emailaddress": "chaitu@gmail.com",
+      "password": "12345",
+      "id": 5
+    },
+    {
+      "FirstName": "kiran",
+      "SecondName": "kumar",
+      "Emailaddress": "kiran@gmail.com",
+      "password": "0123",
+      "id": 6
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": [
+    {
+      "name": "kirab",
+      "id": 1
+    }
+  ]
+}

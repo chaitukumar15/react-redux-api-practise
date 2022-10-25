@@ -1,0 +1,17 @@
+.Calculator{
+
+
+    display: grid;
+    grid-template-columns: 30px 30px 30px 30px;
+    gap: 10px;
+    background-color: #2196F3;
+    padding: 10px;
+  }
+
+.Calculator > button{
+    background-color: rgba(255, 255, 255, 0.8);
+    /* text-align: center; */
+    padding: 10px 10px;
+    
+
+}

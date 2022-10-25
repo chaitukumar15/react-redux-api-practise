@@ -1,0 +1,30 @@
+.contain{
+   padding-top: 40px;
+padding-bottom: 50px;
+margin-top: 500px;
+}
+
+.navv{
+   display: flex;
+   flex-direction: row;
+}
+
+.lastfoot h3,h4{
+   
+    text-align: center;
+}
+.imgFooot{
+   display: flex;
+   justify-content: center;
+ 
+}
+.imgFooot svg{
+   margin-right: 20px;
+margin-top: 20px;
+
+
+}
+.displayycard{
+   display: flex;
+   justify-content: space-evenly;
+}

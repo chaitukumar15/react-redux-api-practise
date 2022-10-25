@@ -1,0 +1,115 @@
+.A{
+  display: flex; 
+   justify-content: flex-end; 
+margin-left: auto;
+  
+
+}
+.B{
+  position: sticky;
+  /* margin-bottom: 25px; */
+}
+
+ .c{
+  background-color: orange;
+  padding: 10px;
+  margin: 0px;
+  /* border-radius: 20%; */
+  /* box-shadow: 2px 2px 5px black; */
+
+} 
+.d{
+  margin-top: 100px;
+  display: flex;
+  justify-content: space-evenly;
+}
+.f{
+  width: 1490px;
+  height: 300px;
+  /* background-color: rgba(1, 6, 14, 0.685); */
+  
+}
+.footer{
+
+  width: 1490px;
+  height: 250px;
+  background-color: rgba(1, 6, 14, 0.685);
+  position:absolute;
+  top:700px;
+  color: aliceblue;
+}
+.footer h3,h4{
+  margin-top: 30px;
+text-align: center;
+text-decoration: dashed;
+}
+
+.logins{
+  width: 500px !important;
+  height: 500px !important;
+  background-color:white;
+  border: 1px solid black !important;
+box-shadow: 2px 2px 5px black !important;
+margin:auto;
+margin-top: 60px;
+padding:auto;
+}
+.logins h1{
+  text-align: center;
+  margin-top: 30px;
+  margin: 40px;
+}
+Form Button{
+  margin-top: 20px;
+  margin-left: 190px;
+
+}
+Form.Label{
+text-align: center !important;
+}
+.flx{
+  display: flex;
+  /* align-items: center; */
+  flex-direction: row;
+  /* margin-right: 50px; */
+  
+}
+.flx svg{
+  margin-left: 30px;
+  /* padding: 10px; */
+  justify-content: space-between;
+}
+.boxx{
+  margin-top: 30px;
+  margin-left: 120px;
+}
+.ifrm{
+  margin-top: 70px;
+}
+.bx{
+  margin: auto;
+  margin-left: 620px;
+}
+
+
+.nav-link:link{
+  padding:10px !important;
+ color: aqua !important;
+  }
+  .nav-link:visited{
+    padding:10px !important;
+   color: antiquewhite !important;
+    }
+    .nav-link:hover{
+      padding:10px;
+      background-color: rgb(202, 159, 159);
+      }
+      .nav-link:active,.nav-link:focus{
+        padding:10px !important;
+        background-color: red !important;
+        } 
+   
+        .jjj:active,.jjj:focus{
+          padding:10px !important;
+          background-color: red !important;
+          }
